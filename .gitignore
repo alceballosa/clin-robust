@@ -1,0 +1,22 @@
+__pycache__
+output
+results
+sbatch
+datasets
+.vscode
+*.pyc
+*.code-workspace
+.out
+
+
+slurm_output/
+/logs
+slurm
+results_*/
+results*csv
+*.pdf
+
+# how to merge from other branch
+# git checkout master
+# git merge branch_name
+
