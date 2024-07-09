@@ -24,7 +24,10 @@ Download the data from https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/ an
 
 ## Preprocessing the data:
 
-To preprocess the data, ensure you've created the above folders and then run all the notebooks present under  `preprocessing_notebooks`. 
+To preprocess the data, ensure you've created the above folders and then run all the notebooks present under  `preprocessing_notebooks`.
+
+For the MIMIC-III mortality prediction in particular, we follow the preprocessing here:
+https://github.com/MLforHealth/HurtfulWords/blob/master/scripts/make_targets.py
 
 ## Running inference
 
